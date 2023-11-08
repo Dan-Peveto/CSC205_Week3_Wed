@@ -1,0 +1,3 @@
+package CSC205_Week3_Wed;
+
+enum AccountType {CHECKING, SAVING, MONEY_MARKET, INVESTMENT};
